@@ -1,0 +1,25 @@
+Find and read 20 interview questions for Data Types, Operators, Conditional Statements, Looping Statements, Functions.
+
+Q.1. What are the key features of Python?
+Q.2. Differentiate between lists and tuples.
+Q.3. Explain the ternary operator in Python.
+Q.4. What are negative indices?
+Q.5. Is Python case-sensitive?
+Q.6. How long can an identifier be in Python?
+Q.7. How would you convert a string into lowercase?
+Q.8. What is the pass statement in Python?
+Q.9. Explain help() and dir() functions in Python.
+Q.10. How do you get a list of all the keys in a dictionary?
+Q.11. What is slicing?
+Q.12. How would you declare a comment in Python?
+Q.13. How will you check if all characters in a string are alphanumeric?
+Q.14. How will you capitalize the first letter of a string?
+Q.15. We know Python is all the rage these days. But to be truly accepting of a great technology,
+        you must know its pitfalls as well. Would you like to talk about this?
+Q.16. With Python, how do you find out which directory you are currently in?
+Q.17. How do you insert an object at a given index in Python?
+Q.18. And how do you reverse a list?
+Q.19. What is the Python interpreter prompt?
+Q.20. How does a function return values?
+
+
